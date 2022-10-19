@@ -3,7 +3,7 @@
 $wiAPIurl = '192.168.10.161:8083'
 $sscURL = 'http://192.168.10.224:8080/ssc/'
 $applicationVersionID = '10001'
-$sscToken = 'ZWEyY2ZlYzktY2I1ZS00MTBjLTk3M2UtYzA0NjNiMzI0ZDA4'
+$sscToken = 'NzFlOGJiMmMtYmFkMy00ZDI2LTk5NzQtMjdmZTQ0NmQzOTBk'
 
 $scanURL = 'http://zero.webappsecurity.com/'
 $crawlAuditMode = 'CrawlandAudit'
